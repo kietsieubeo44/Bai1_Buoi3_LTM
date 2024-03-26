@@ -1,0 +1,7 @@
+D:\TH_LTM\b3\server\Server\Server\bin\Debug\Server.exe.config
+D:\TH_LTM\b3\server\Server\Server\bin\Debug\Server.exe
+D:\TH_LTM\b3\server\Server\Server\bin\Debug\Server.pdb
+D:\TH_LTM\b3\server\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\TH_LTM\b3\server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\TH_LTM\b3\server\Server\Server\obj\Debug\Server.exe
+D:\TH_LTM\b3\server\Server\Server\obj\Debug\Server.pdb
